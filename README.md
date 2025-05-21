@@ -4,11 +4,26 @@
 welcome to my GitHub! Here are some of my submissions for C++:
 
 ## submission 1: 📦[Class Challenge Submission](https://github.com/Dev-OtedGamer/The-Tech-Academy-C--and-Unreal-Engine-Projects/blob/main/ClassChallengeSubmissionAssignment/ClassChallengeSubmissionAssignment/ClassChallengeSubmissionAssignment.cpp)
-**Description:** On this submission I was asked to do some specific things :
-Defines a base abstract class Shape with a pure virtual method getArea()
-Implements three derived classes: Rectangle, Triangle, and Circle
-Uses constructors and overridden methods to calculate and display the area and color of each shape
-Demonstrates polymorphism via virtual functions
+**Description:** This C++ project showcases core Object-Oriented Programming principles, specifically inheritance, abstraction, and polymorphism.
+✅ Key Features:
+Abstract Base Class:
+Shape defines a pure virtual function getArea(), making it an abstract class that cannot be instantiated directly.
+
+Derived Classes:
+Rectangle, Triangle, and Circle inherit from Shape and each provide their own implementation of getArea().
+
+Encapsulation & Constructors:
+Each class uses constructors to initialize specific attributes like color, dimensions, or radius.
+
+Polymorphism:
+The overridden getArea() method demonstrates polymorphic behavior across different shape types.
+
+Output:
+Displays each shape’s color and calculated area.
+
+This assignment demonstrates how polymorphism and inheritance allow for reusable, scalable, and organized code when working with related object types.
+
+
 
 ## submission 1: 📦[Oop Submission Assignment](https://github.com/Dev-OtedGamer/The-Tech-Academy-C--and-Unreal-Engine-Projects/blob/main/OopSubmissionAssignment/OopSubmissionAssignment/OopSubmissionAssignment.cpp)
 **Description:** This project is a simple C++ program demonstrating core Object-Oriented Programming (OOP) principles.
