@@ -25,10 +25,10 @@ This assignment demonstrates how polymorphism and inheritance allow for reusable
 
 
 
-## submission 1: 📦[Oop Submission Assignment](https://github.com/Dev-OtedGamer/The-Tech-Academy-C--and-Unreal-Engine-Projects/blob/main/OopSubmissionAssignment/OopSubmissionAssignment/OopSubmissionAssignment.cpp)
+## submission 2: 📦[Oop Submission Assignment](https://github.com/Dev-OtedGamer/The-Tech-Academy-C--and-Unreal-Engine-Projects/blob/main/OopSubmissionAssignment/OopSubmissionAssignment/OopSubmissionAssignment.cpp)
 **Description:** This project is a simple C++ program demonstrating core Object-Oriented Programming (OOP) principles.
 
- ## Project Overview🐶:
+ # Project Overview🐶:
 Class: Dog
 Properties (State): breed, color, height, weight
 Methods (Behavior): shake(), sit(), laydown(), displayInfo()
